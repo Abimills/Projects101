@@ -1,9 +1,14 @@
-# node-js-playlist
-CSS and asset files for the Net Ninja YouTube nodejs playlist
+# abel-js-playlist
+This is a simple to do app made using express.js package
 
-The final project code can be found in the public/assests folder of this repo
+inorder to use please first run this command to get all the need dependencies :
 
-If you have been following the tutorial, code for each and every lesson is added in the Practice folder so you can directly download and check.
-All files have been tested.
 
-If more files for  .\Practice\ should be added. They will be added very soon.
+npm install
+
+then you can run using this command :
+
+npm run dev
+
+Enjoy playing with it...
+
